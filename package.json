@@ -1,0 +1,7 @@
+{
+  "name": "metaverse",
+  "version": "1.0.0",
+  "devDependencies": {
+    "three": "^0.140.2"
+  }
+}

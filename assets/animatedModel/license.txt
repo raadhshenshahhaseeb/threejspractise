@@ -1,0 +1,11 @@
+Model Information:
+* title:	Claris - Epic Conquest 2
+* source:	https://sketchfab.com/3d-models/claris-epic-conquest-2-296b84fba1d8465c857bd3968f06b5a4
+* author:	gacogames (https://sketchfab.com/gacogames)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Claris - Epic Conquest 2" (https://sketchfab.com/3d-models/claris-epic-conquest-2-296b84fba1d8465c857bd3968f06b5a4) by gacogames (https://sketchfab.com/gacogames) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
